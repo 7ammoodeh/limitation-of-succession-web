@@ -1,0 +1,450 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+    <form id="form">
+        <div class="container mx-auto  mt-5" style="font-size:20px;">
+            <div class="row w-100 mx-auto">
+                <div class="col-md-4 col-sm-12">
+                    <div class="form-outline">
+                        <input type="number" id="money" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;" required/>
+                        <label class="form-label" for="typePassword">المال</label>
+                    </div>
+                </div>
+                <div class="col-4 mt-4">
+
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="form-outline">
+                        <input type="text" id="national_number" class="form-control"/>
+                        <label class="form-label" for="typePassword">الرقم الوطني</label>
+                    </div>
+                </div>
+            </div>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col" class="forced">
+                        </th>
+                        <td scope="col">عدد الأشخاص</td>
+                        <td scope="col">الورثة</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="husband" />
+                            </div>
+                        </th>
+                        <td></td>
+                        <td>زوج</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="wife" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="wife1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد الزوجات</label>
+                            </div>
+                        </td>
+                        <td>زوجة</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="boys" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="boys1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد الأولاد</label>
+                            </div>
+                        </td>
+                        <td>أولاد</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="girls" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="girls1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد البنات</label>
+                            </div>
+                        </td>
+                        <td>بنات</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="father" />
+                            </div>
+                        </th>
+                        <td></td>
+                        <td>أب</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="mother" />
+                            </div>
+                        </th>
+                        <td></td>
+                        <td>أم</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="brothers" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="brothers1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد الأشقاء</label>
+                            </div>
+                        </td>
+                        <td>أشقاء</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="sisters" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="sisters1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد الشقيقات</label>
+                            </div>
+                        </td>
+                        <td>شقيقات</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="m_stepbrothers" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="m_stepbrothers1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد الأخوة</label>
+                            </div>
+                        </td>
+                        <td>(إناث-ذكور)أخوة لأم</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="f_stepbrothers" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="f_stepbrothers1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد الأخوة</label>
+                            </div>
+                        </td>
+                        <td>أخوة لأب</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="f_stepsisters" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="f_stepsisters1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد الخوات</label>
+                            </div>
+                        </td>
+                        <td>خوات لأب</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="brothers_sons" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="brothers_sons1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد أبناء الأخوة</label>
+                            </div>
+                        </td>
+                        <td>أبناء أخ</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="" id="uncles" />
+                            </div>
+                        </th>
+                        <td>
+                            <div class="form-outline mb-4 col-lg-4 col-md-6 ms-auto">
+                                <input type="number" id="uncles1" class="form-control" min="0" oninput="this.value=(this.value   < Number(this.min))  ? '' : this.value;"/>
+                                <label class="form-label" for="form1Example1">عدد الأعمام</label>
+                            </div>
+                        </td>
+                        <td>أعمام</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <button type="submit" class="btn btn-primary" id="formstosubmit">إدخال البيانات</button>
+    </form>
+<script>
+    $(document).on("click", "input[id = 'husband']", function () {
+        $("#wife").attr('disabled', !$("#wife").attr('disabled'));
+        $("#wife1").attr('disabled', !$("#wife1").attr('disabled'));
+    })
+    $(document).on("click", "input[id = 'wife']", function () {
+        $("#husband").attr('disabled', !$("#husband").attr('disabled'));
+    })
+    $(document).on("click", "input[id = 'boys']", function () {
+        if (!$('#father').is(":checked")) {
+            $("#sisters").attr('disabled', !$("#sisters").attr('disabled'));
+            $("#brothers").attr('disabled', !$("#brothers").attr('disabled'));
+            $("#f_stepbrothers").attr('disabled', !$("#f_stepbrothers").attr('disabled'));
+            $("#f_stepsisters").attr('disabled', !$("#f_stepsisters").attr('disabled'));
+            $("#brothers_sons").attr('disabled', !$("#brothers_sons").attr('disabled'));
+            $("#uncles").attr('disabled', !$("#uncles").attr('disabled'));
+            $("#sisters1").attr('disabled', !$("#sisters1").attr('disabled'));
+            $("#brothers1").attr('disabled', !$("#brothers1").attr('disabled'));
+            $("#f_stepbrothers1").attr('disabled', !$("#f_stepbrothers1").attr('disabled'));
+            $("#f_stepsisters1").attr('disabled', !$("#f_stepsisters1").attr('disabled'));
+            $("#brothers_sons1").attr('disabled', !$("#brothers_sons1").attr('disabled'));
+            $("#uncles1").attr('disabled', !$("#uncles1").attr('disabled'));
+            if (!$('#girls').is(":checked")) {
+            $("#m_stepbrothers").attr('disabled', !$("#m_stepbrothers").attr('disabled'));
+            $("#m_stepbrothers1").attr('disabled', !$("#m_stepbrothers1").attr('disabled'));
+            }
+        }
+    });
+    $(document).on("click", "input[id = 'father']", function () {
+        if (!$('#boys').is(":checked")) {
+            $("#m_stepbrothers").attr('disabled', !$("#m_stepbrothers").attr('disabled'));
+            $("#f_stepbrothers").attr('disabled', !$("#f_stepbrothers").attr('disabled'));
+            $("#f_stepsisters").attr('disabled', !$("#f_stepsisters").attr('disabled'));
+            $("#brothers_sons").attr('disabled', !$("#brothers_sons").attr('disabled'));
+            $("#uncles").attr('disabled', !$("#uncles").attr('disabled'));
+            $("#m_stepbrothers1").attr('disabled', !$("#m_stepbrothers1").attr('disabled'));
+            $("#f_stepbrothers1").attr('disabled', !$("#f_stepbrothers1").attr('disabled'));
+            $("#f_stepsisters1").attr('disabled', !$("#f_stepsisters1").attr('disabled'));
+            $("#brothers_sons1").attr('disabled', !$("#brothers_sons1").attr('disabled'));
+            $("#uncles1").attr('disabled', !$("#uncles1").attr('disabled'));
+        }
+    });
+    $(document).on("click", "input[id = 'girls']", function () {
+        if (!$('#boys').is(":checked")) {
+        $("#m_stepbrothers").attr('disabled', !$("#m_stepbrothers").attr('disabled'));
+        $("#m_stepbrothers1").attr('disabled', !$("#m_stepbrothers1").attr('disabled'));
+        }
+    });
+    $(document).on("click", "input[id = 'brothers']", function () {
+        $("#f_stepbrothers").attr('disabled', !$("#f_stepbrothers").attr('disabled'));
+        $("#f_stepsisters").attr('disabled', !$("#f_stepsisters").attr('disabled'));
+        $("#brothers_sons").attr('disabled', !$("#brothers_sons").attr('disabled'));
+        $("#uncles").attr('disabled', !$("#uncles").attr('disabled'));
+        $("#f_stepbrothers1").attr('disabled', !$("#f_stepbrothers1").attr('disabled'));
+        $("#f_stepsisters1").attr('disabled', !$("#f_stepsisters1").attr('disabled'));
+        $("#brothers_sons1").attr('disabled', !$("#brothers_sons1").attr('disabled'));
+        $("#uncles1").attr('disabled', !$("#uncles1").attr('disabled'));
+    });
+    $(document).on("click", "input[id = 'f_stepbrothers']", function () {
+        $("#brothers_sons").attr('disabled', !$("#brothers_sons").attr('disabled'));
+        $("#uncles").attr('disabled', !$("#uncles").attr('disabled'));
+        $("#brothers_sons1").attr('disabled', !$("#brothers_sons1").attr('disabled'));
+        $("#uncles1").attr('disabled', !$("#uncles1").attr('disabled'));
+    });
+    $(document).on("click", "input[id = 'brothers_sons']", function () {
+        $("#uncles").attr('disabled', !$("#uncles").attr('disabled'));
+        $("#uncles1").attr('disabled', !$("#uncles1").attr('disabled'));
+    });
+    $(document).on("click", "input[id = 'girls']", function () {
+        if ($('#sisters').is(":checked")) {
+            $("#f_stepbrothers").attr('disabled', !$("#f_stepbrothers").attr('disabled'));
+            $("#f_stepsisters").attr('disabled', !$("#f_stepsisters").attr('disabled'));
+            $("#brothers_sons").attr('disabled', !$("#brothers_sons").attr('disabled'));
+            $("#uncles").attr('disabled', !$("#uncles").attr('disabled'));
+            $("#uncles_sons").attr('disabled', !$("#uncles_sons").attr('disabled'));
+            $("#f_stepbrothers1").attr('disabled', !$("#f_stepbrothers1").attr('disabled'));
+            $("#f_stepsisters1").attr('disabled', !$("#f_stepsisters1").attr('disabled'));
+            $("#brothers_sons1").attr('disabled', !$("#brothers_sons1").attr('disabled'));
+            $("#uncles1").attr('disabled', !$("#uncles1").attr('disabled'));
+            $("#uncles_sons1").attr('disabled', !$("#uncles_sons1").attr('disabled'));
+        }
+    });
+    $(document).on("click", "input[id = 'sisters']", function () {
+        if ($('#girls').is(":checked")) {
+            $("#f_stepbrothers").attr('disabled', !$("#f_stepbrothers").attr('disabled'));
+            $("#f_stepsisters").attr('disabled', !$("#f_stepsisters").attr('disabled'));
+            $("#brothers_sons").attr('disabled', !$("#brothers_sons").attr('disabled'));
+            $("#uncles").attr('disabled', !$("#uncles").attr('disabled'));
+            $("#uncles_sons").attr('disabled', !$("#uncles_sons").attr('disabled'));
+            $("#f_stepbrothers1").attr('disabled', !$("#f_stepbrothers1").attr('disabled'));
+            $("#f_stepsisters1").attr('disabled', !$("#f_stepsisters1").attr('disabled'));
+            $("#brothers_sons1").attr('disabled', !$("#brothers_sons1").attr('disabled'));
+            $("#uncles1").attr('disabled', !$("#uncles1").attr('disabled'));
+            $("#uncles_sons1").attr('disabled', !$("#uncles_sons1").attr('disabled'));
+        }
+    });
+    $("#formstosubmit").click(function (e) {
+        e.preventDefault();
+
+    Validate();
+    });
+    function Validate() {
+        var family = [];
+        var familynums = [];
+        var husband;
+        var wife;
+        var boys;
+        var girls;
+        var father;
+        var mother;
+        var brothers;
+        var sisters;
+        var m_stepbrothers;
+        var f_stepbrothers;
+        var f_stepsisters;
+        var brothers_sons;
+        var uncles;
+        var z = 0;
+        if ($('#husband').is(":checked")) {
+            husband = 1;
+        } else {
+            husband = 0;
+        }
+        family.push(husband);
+        if ($('#wife').is(":checked")) {
+            wife = 1;
+            familynums.push($('#wife1').val());
+        } else {
+            wife = 0;
+            familynums.push(z);
+        }
+        family.push(wife);
+        if ($('#boys').is(":checked")) {
+            boys = 1;
+            familynums.push($('#boys1').val());
+        } else {
+            boys = 0;
+            familynums.push(z);
+        }
+        family.push(boys);
+        if ($('#girls').is(":checked")) {
+            girls = 1;
+            familynums.push($('#girls1').val());
+        } else {
+            girls = 0;
+            familynums.push(z);
+        }
+        family.push(girls);
+        if ($('#father').is(":checked")) {
+            father = 1;
+        } else {
+            father = 0;
+        }
+        family.push(father);
+        if ($('#mother').is(":checked")) {
+            mother = 1;
+        } else {
+            mother = 0;
+        }
+        family.push(mother);
+        if ($('#brothers').is(":checked")) {
+            brothers = 1;
+            familynums.push($('#brothers1').val());
+        } else {
+            brothers = 0;
+            familynums.push(z);
+        }
+        family.push(brothers);
+        if ($('#sisters').is(":checked")) {
+            sisters = 1;
+            familynums.push($('#sisters1').val());
+        } else {
+            sisters = 0;
+            familynums.push(z);
+        }
+        family.push(sisters);
+        if ($('#m_stepbrothers').is(":checked")) {
+            m_stepbrothers = 1;
+            familynums.push($('#m_stepbrothers1').val());
+        } else {
+            m_stepbrothers = 0;
+            familynums.push(z);
+        }
+        family.push(m_stepbrothers);
+        if ($('#f_stepbrothers').is(":checked")) {
+            f_stepbrothers = 1;
+            familynums.push($('#f_stepbrothers1').val());
+        } else {
+            f_stepbrothers = 0;
+            familynums.push(z);
+        }
+        family.push(f_stepbrothers);
+        if ($('#f_stepsisters').is(":checked")) {
+            f_stepsisters = 1;
+            familynums.push($('#f_stepsisters1').val());
+        } else {
+            f_stepsisters = 0;
+            familynums.push(z);
+        }
+        family.push(f_stepsisters);
+        if ($('#brothers_sons').is(":checked")) {
+            brothers_sons = 1;
+            familynums.push($('#brothers_sons1').val());
+        } else {
+            brothers_sons = 0;
+            familynums.push(z);
+        }
+        family.push(brothers_sons);
+        if ($('#uncles').is(":checked")) {
+            uncles = 1;
+            familynums.push($('#uncles1').val());
+        } else {
+            uncles = 0;
+            familynums.push(z);
+        }
+        family.push(uncles);
+        
+    $.ajax(
+        {
+            type: "POST",
+            url: '@Url.Action("limitaion", "Pages")',
+            data: {
+                model: family,
+                model1: familynums,
+                moneym: $('#money').val(),
+                national_number1: $('#national_number').val(),
+            },
+            error: function (result) {
+    },
+    success: function (result) {
+        if (result == "success") {
+            window.location.href = '@Url.Action("Third_Page","Pages")'
+        } else if (result == "This Id number is exist") {
+            alert("This Id number is exist");
+        } else if (result == "not 11") {
+            alert("National Number must be 11 number");
+        }
+    else {
+    toastr.error( " @ViewBag.wrongmsg  ", "",{
+    "positionClass": "md-toast-top-center",
+    });
+    }
+    }
+    });
+    }
+</script>

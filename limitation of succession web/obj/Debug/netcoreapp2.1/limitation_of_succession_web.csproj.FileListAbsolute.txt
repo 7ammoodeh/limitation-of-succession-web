@@ -1,0 +1,102 @@
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csprojAssemblyReference.cache
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.AssemblyInfo.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.deps.json
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.runtimeconfig.json
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.runtimeconfig.dev.json
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.dll
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.pdb
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.Views.dll
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.Views.pdb
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.TagHelpers.input.cache
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.TagHelpers.output.cache
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorCoreGenerate.cache
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\Second_Page.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.Views.pdb
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.dll
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.pdb
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csproj.CopyComplete
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\Third_Page.g.cshtml.cs
+C:\Users\User\Desktop\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\First_Page.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.deps.json
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.runtimeconfig.json
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.dll
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.pdb
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.Views.dll
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.Views.pdb
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.TagHelpers.input.cache
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.TagHelpers.output.cache
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorCoreGenerate.cache
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\First_Page.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\Second_Page.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\Third_Page.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.Views.pdb
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.dll
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.pdb
+C:\Users\User\Desktop\New folder (3)\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csproj.CopyComplete
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.deps.json
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.runtimeconfig.json
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.runtimeconfig.dev.json
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.dll
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.pdb
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.Views.dll
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\bin\Debug\netcoreapp2.1\limitation_of_succession_web.Views.pdb
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csprojAssemblyReference.cache
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.AssemblyInfo.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.TagHelpers.input.cache
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.TagHelpers.output.cache
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorCoreGenerate.cache
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\First_Page.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\Second_Page.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Pages\Third_Page.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.Views.pdb
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.dll
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.pdb
+C:\Users\User\Desktop\New folder (3)\7ammodeh\limitation of succession web\limitation of succession web\obj\Debug\netcoreapp2.1\limitation_of_succession_web.csproj.CopyComplete

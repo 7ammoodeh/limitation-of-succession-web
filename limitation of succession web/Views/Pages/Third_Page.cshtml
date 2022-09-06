@@ -1,0 +1,42 @@
+﻿@using limitation_of_succession_web.Models;
+@{
+    ViewData["Title"] = "Therd_Page";
+}
+    <div class="container mx-auto  mt-5" style="font-size:20px;">
+        <table class="table">
+            <thead>
+                <tr>
+                    <td scope="col">المال</td>
+                    <td scope="col">الرقم الوطني</td>
+                </tr>
+            </thead>
+            <tbody>
+                        <tr>
+                            <td>@ViewBag.money</td>
+                            <td>@ViewBag.number</td>
+                        </tr>
+            </tbody>
+        </table>
+        <table class="table">
+            <thead>
+                <tr>
+                    <td scope="col">الحصة لكل شخص</td>
+                    <td scope="col">الحصة الكلية</td>
+                    <td scope="col">الورثة</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (heirs heir in (heirs[])ViewBag.Heirs)
+                {
+                    if (heir.existing == 1)
+                    {
+                        <tr>
+                            <td>@heir.part1</td>
+                            <td>@heir.part</td>
+                            <td>@heir.heir</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>

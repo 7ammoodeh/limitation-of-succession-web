@@ -1,0 +1,50 @@
+﻿body {
+    background-image: url(../images/pexels-pixabay-302083.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+table, th, tr {
+    border-color: black !important;
+}
+.table > tbody > tr > td {
+    padding: 8px !important;
+    border-top: 1px solid #000000 !important;
+}
+.table > tbody > tr > th {
+    padding: 8px !important;
+    border-top: 1px solid #000000 !important;
+}
+.table > thead > tr > th {
+    vertical-align: bottom !important;
+    border-bottom: 0 !important;
+}
+.table > thead:first-child > tr:first-child > th {
+    border-bottom: 0 !important;
+}
+input[type="checkbox"] {
+    width: 25px !important;
+    height: 25px !important;
+}
+.table {
+    font-size: 25px !important;
+    color: #000000 !important;
+}
+input {
+    text-align: end !important;
+}
+.form-outline .form-control ~ .form-label {
+    right: 0.75rem !important;
+}
+.col-lg-4 {
+    float: none !important;
+}
+.form-control{
+    font-size:14px !important;
+    color:#000000 !important;
+}
+.form-outline .form-control ~ .form-label {
+    color: rgba(0,0,0,1) !important;
+}
